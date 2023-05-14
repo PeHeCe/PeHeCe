@@ -1,6 +1,6 @@
 ##  Ola! Eu sou o Pedro...
-
-- 🔭 I’m currently working no setor administrativo 
+-📘Sou aluno da Universidade de Vila Velha - ES
+- 🔭 Atualmente estou trabalhando no setor administrativo
 - - 🌱 I’m currently  aprende programação web e criação de banco de dados
 - 😄 Pronouns:  ele/dele  
 - ⚡ Fun fact:  Tenho vontade de trabalhar na area de cyberseguryt
