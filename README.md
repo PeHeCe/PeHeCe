@@ -2,7 +2,6 @@
 -📘Sou aluno da Universidade de Vila Velha - ES
 - 🔭 Atualmente estou trabalhando no setor administrativo
 - - 🌱 I’m currently  aprende programação web e criação de banco de dados
-- 😄 Pronouns:  ele/dele  
 - ⚡ Fun fact:  Tenho vontade de trabalhar na area de cyberseguryt
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pehece&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
