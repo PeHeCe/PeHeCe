@@ -1,5 +1,5 @@
 ##  Ola! Eu sou o Pedro...
--📘Sou aluno da Universidade de Vila Velha - ES
+-📘Sou aluno da Universidade de Vila Velha - ES 2/8
 - 🔭 Atualmente estou trabalhando no setor administrativo
 - - 🌱 I’m currently  aprende programação web e criação de banco de dados
 - ⚡ Fun fact:  Tenho vontade de trabalhar na area de cyberseguryt
