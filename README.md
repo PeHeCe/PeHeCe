@@ -1,7 +1,7 @@
 ##  Ola! Eu sou o Pedro...
 -📘Sou aluno da Universidade de Vila Velha - ES 2/8
 - 🔭 Atualmente estou trabalhando no setor administrativo
-- - 🌱 I’m currently  aprende programação web e criação de banco de dados
+- - 🌱 Comecei a mexer com as linguagens: HTML, CSS, JAVASCRIPT, SQL, PYTHON e JAVA
 - ⚡ Fun fact:  Tenho vontade de trabalhar na area de cyberseguryt
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pehece&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
