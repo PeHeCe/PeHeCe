@@ -1,5 +1,5 @@
 ##  Ola! Eu sou o Pedro...
--📘Sou aluno da Universidade de Vila Velha - ES 2/8
+-📘Sou aluno da Universidade de Vila Velha - ES 3/8
 - 🔭 Atualmente estou trabalhando no setor administrativo
 -  🌱Linguagens: HTML, CSS, JAVASCRIPT, SQL, PYTHON e JAVA
 - ⚡ Fun fact:  Tenho vontade de trabalhar na area de cyber security
