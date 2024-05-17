@@ -2,7 +2,7 @@
 -📘Sou aluno da Universidade de Vila Velha - ES 3/8
 - 🔭 Atualmente estou trabalhando no setor administrativo
 -  🌱Linguagens: HTML, CSS, JAVASCRIPT, SQL, PYTHON, JAVA e REACT-NATIVE
-- ⚡ Fun fact:  Tenho vontade de trabalhar na area de cyber security
+- ⚡ Fun fact: Cyber security, desenvolvedor ou gestor de projetos
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pehece&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
