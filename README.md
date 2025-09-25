@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/Mrovqtb.gif" alt="Cyberpunk GIF" width="750">
+  <img src="https://i.imgur.com/Mrovqtb.gif" alt="Cyberpunk GIF" width="900">
 </div>
 
 <!-- <div align="center" width="100%">
