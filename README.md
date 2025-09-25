@@ -1,8 +1,5 @@
 <div align="center">
-  <img src="https://imgur.com/gallery/insane-mainframe-Ull833u#Mrovqtb" width="200">
-</div>
-<div align="center">
-  <img src="https://img.shields.io/badge/meow_♡-black" />
+  <img src="https://www.deviantart.com/kirokaze" width="200">
 </div>
 
 <!-- <div align="center" width="100%">
