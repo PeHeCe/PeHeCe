@@ -4,9 +4,9 @@
 
 <!-- <div align="center" width="100%">
   <img src
-<!-- <div align="center">
+<div align="center">
   <img src="https://i.imgur.com/uC56W8b.gif" alt="Coding GIF" width="400">
-</div> --> -->
+</div>  -->
 
 <h4 align="center">
   🌟 Sou estudante de Sistemas de Informação, apaixonado por tecnologia e em constante busca por novos conhecimentos para aprimorar minhas habilidades de programação e me aprofundar no mundo do desenvolvimento de software.
