@@ -1,18 +1,12 @@
+<div align="center">
   <img src="https://imgur.com/zeuHIk9.gif" width="200">
 </div>
 <div align="center">
   <img src="https://img.shields.io/badge/meow_♡-black" />
 </div>
 
-<div alig
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=123456&height=120&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling" />
-</div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=40&center=true&vCenter=true&width=800&height=70&lines=Ol%C3%A1%2C+sou+Pedro+Henrique;+Desenvolvedor;+Analista+de+dados;+E+muito+mais!" alt="Typing Animation">
-</h1>
-
+<div align="center" width="100%">
+  <img src
 <!-- <div align="center">
   <img src="https://i.imgur.com/uC56W8b.gif" alt="Coding GIF" width="400">
 </div> -->
