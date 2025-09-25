@@ -40,8 +40,8 @@
 ### 💻 **Minhas Habilidades e Ferramentas**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,nodejs,python,java,go" /><br>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,aws,docker,vscode,git,github,figma,notion" /><br>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,python,java" /><br>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,docker,vscode,git,github,figma" /><br>
 </div>
 
 ---
