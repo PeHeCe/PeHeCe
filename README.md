@@ -30,10 +30,10 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=PeHeCe&show_icons=true&theme=dark&rank_icon=github&border_radius=8"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=PeHeCe&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
-</div>
+</div> -->
 
 ---
 
