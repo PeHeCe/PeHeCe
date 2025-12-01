@@ -9,7 +9,7 @@
 </div>  -->
 
 <h4 align="center">
-  🌟 Sou estudante de Sistemas de Informação, apaixonado por tecnologia e em constante busca por novos conhecimentos para aprimorar minhas habilidades de programação e me aprofundar no mundo do desenvolvimento de software.
+  🌟 Sou estudante de Sistemas de Informação, apaixonado por tecnologia e em constante busca por novos conhecimentos para aprimorar minhas habilidades de programação, dados, segurança e me aprofundar nas novas tecnologias do mercado.
 </h4>
 
 ---
